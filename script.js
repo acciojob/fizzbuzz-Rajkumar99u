@@ -14,7 +14,7 @@ for(int i=1;i<21;i++){
 		k += "FizzBuzz\n"
 	}
 	else{
-		k += i"\n"
+		k += i +"\n"
 	}
 }
 alert(k)
